@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HelloWarudo": {
+      "commandName": "Project",
+      "commandLineArgs": "józsi béla erika"
+    }
+  }
+}

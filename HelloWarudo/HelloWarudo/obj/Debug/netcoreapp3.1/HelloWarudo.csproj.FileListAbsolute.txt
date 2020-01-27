@@ -1,0 +1,11 @@
+C:\Users\Én\source\repos\HelloWarudo\HelloWarudo\bin\Debug\netcoreapp3.1\HelloWarudo.exe
+C:\Users\Én\source\repos\HelloWarudo\HelloWarudo\bin\Debug\netcoreapp3.1\HelloWarudo.deps.json
+C:\Users\Én\source\repos\HelloWarudo\HelloWarudo\bin\Debug\netcoreapp3.1\HelloWarudo.runtimeconfig.json
+C:\Users\Én\source\repos\HelloWarudo\HelloWarudo\bin\Debug\netcoreapp3.1\HelloWarudo.runtimeconfig.dev.json
+C:\Users\Én\source\repos\HelloWarudo\HelloWarudo\bin\Debug\netcoreapp3.1\HelloWarudo.dll
+C:\Users\Én\source\repos\HelloWarudo\HelloWarudo\bin\Debug\netcoreapp3.1\HelloWarudo.pdb
+C:\Users\Én\source\repos\HelloWarudo\HelloWarudo\obj\Debug\netcoreapp3.1\HelloWarudo.csprojAssemblyReference.cache
+C:\Users\Én\source\repos\HelloWarudo\HelloWarudo\obj\Debug\netcoreapp3.1\HelloWarudo.AssemblyInfoInputs.cache
+C:\Users\Én\source\repos\HelloWarudo\HelloWarudo\obj\Debug\netcoreapp3.1\HelloWarudo.AssemblyInfo.cs
+C:\Users\Én\source\repos\HelloWarudo\HelloWarudo\obj\Debug\netcoreapp3.1\HelloWarudo.dll
+C:\Users\Én\source\repos\HelloWarudo\HelloWarudo\obj\Debug\netcoreapp3.1\HelloWarudo.pdb
